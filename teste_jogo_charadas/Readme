@@ -1,6 +1,10 @@
 Pequeno jogo de charadas feito para aprender e exercitar conhecimentos em python.
 
-Para jogar é só executar o executavel encontrado na pasta "dist". 
+Nesse exercicio aprendi um pouco sobre while, limpeza de strings (split, string), operador in, bibliotecas e keys().
+
+Acabei usando o gbt demais mas faz tempo que não tentava nada em python.
+
+> Para jogar é só executar o executavel encontrado na pasta "dist". 
 
 Artistas:
   Ooyamaneko
